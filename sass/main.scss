@@ -9,7 +9,31 @@ $white: #F5F5F5;
 
 //videoImages
 a.links.filmLove {
-  background: url(../images/test/image.jpg);
+  background: url(../images/covers/cover1.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+a.links.filmLife {
+  background: url(../images/covers/cover2.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+a.links.filmGone {
+  background: url(../images/covers/cover3.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+a.links.filmPeople {
+  background: url(../images/covers/cover4.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+a.links.filmHome {
+  background: url(../images/covers/cover5.jpg);
   background-size: cover;
   background-position: center;
 }
